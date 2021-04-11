@@ -1,5 +1,5 @@
-prueba_images:
-    resource: "@PruebaImagesBundle/Resources/config/routing.yml"
+images:
+    resource: "@ImagesBundle/Resources/config/routing.yml"
     prefix:   /
 
 app:

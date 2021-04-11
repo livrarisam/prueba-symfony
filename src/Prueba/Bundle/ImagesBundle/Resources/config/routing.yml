@@ -1,3 +1,0 @@
-prueba_images_homepage:
-    path:     /
-    defaults: { _controller: PruebaImagesBundle:Default:index }
