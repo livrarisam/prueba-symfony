@@ -8,6 +8,6 @@ class DefaultController extends Controller
 {
     public function indexAction()
     {
-        return $this->render('ImagesBundle:Default:index.html.twig');
+        return $this->render('ImagesBundle:Default:home.html.twig');
     }
 }
